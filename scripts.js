@@ -25,13 +25,42 @@ let wikiData = [
         `
     },
     {
+        id: 'diario-23-11-2026',
+        category: 'Diario y Relatos',
+        title: '23/11/2026: Una taza de nostalgia sola',
+        subtitle: 'El descenso tras el vuelo, la búsqueda del té y un brindis silencioso por los recuerdos y quienes siguen cerca.',
+        tags: ['Diario', 'Relato', 'Nostalgia'],
+        date: '23/11/2026',
+        readTime: '3 min',
+        content: `
+            <figure class="story-media-card">
+                <img src="img/0003.png" alt="23/11/2026: Una taza de nostalgia sola" class="wiki-image">
+                <figcaption>Registro visual adjunto — <code>img/0003.png</code></figcaption>
+            </figure>
+
+            <h2 id="aterrizaje-y-te">Aterrizaje y el Ritual del Té</h2>
+            <p>Un viaje plácido termina con un descenso propio, uno lento, apacible. Bajo del avión y camino apurado en dirección al restaurante más cercano:</p>
+
+            <blockquote class="wiki-quote">
+                <p>-”Mesero, mesero, ¿aquí se sirve té?”-</p>
+                <p style="margin-bottom: 0;">-”Lo siento, joven. Aquí no lo servimos aún.”-</p>
+            </blockquote>
+
+            <p>¿Aún? Quizás esté a la espera la moda para que la teína recupere la fama que le arrebató el café. Siempre tuve mi ojo echado al té, hacía ya mucho tiempo, cuando la bisabuela de mi vecina me invitaba a tomar infusiones caseras mientras mi madre dedicaba su tiempo haciendo Dios sepa qué.</p>
+
+            <p>Llevo mucho tiempo sin saber de ella. Gradualmente perdí el contacto con ella, con mi vecina, con sus familiares y con esos días que lentamente se emborronaban conforme otras preocupaciones llenaron mi conciencia adolescente. De alguna forma una parte de mí sigue arraigada a ellos y, ahora yo en los pies de un joven adulto, me encuentro fantaseando con posibles combinaciones de tés y, cada vez que pruebo una infusión de nombre diferente, mi fascinación hacia aquel arte solamente crece y crece.</p>
+
+            <p>Tomé de mi bolsillo una bolsita de té negro, saqué de la cafetería un vaso de plástico y fui corriendo a la dispensadora de agua más cercana que había. Al igual que como hago hoy día en la ESI me preparo yo mismo la bebida, me siento en el primer asiento disponible y dejo reposar mi tan ansiado té negro. A día de hoy este té que tomo representa a más de una persona: Una que desearía no haber perdido tan rápido, unas que desearía no perder ahora y en el fondo, muy en el fondo, una mucho más importante para mí que aquellas personas a las que brindo este momento: Brindo también por aquel chico que reluce en el brillo de sus ojos cuando pasan tiempo conmigo. Brindo por aquellos días que, de todo corazón, espero hayan disfrutado conmigo. Os quiero mucho, mucho más de lo que penséis, me leáis o no ahora.</p>
+        `
+    },
+    {
         id: 'entrada-1-nc',
         category: 'Personajes',
-        title: 'Entrada 1: NC',
+        title: 'Entrada 1: NC (0)',
         subtitle: 'Archivo de personaje, perfil artístico, intereses y análisis psicológico dentro del grupo.',
-        tags: ['Personaje', 'Escritora', 'No R2'],
-        date: 'Archivo Canon',
-        readTime: '4 min',
+        tags: ['Personaje', 'Escritora', 'No R2', 'R0', 'R1'],
+        date: 'Actualizado',
+        readTime: '6 min',
         content: `
             <div class="character-layout">
                 <aside class="character-infobox">
@@ -76,7 +105,69 @@ let wikiData = [
                     <p>También existen obras con el mensaje dado de vuelta, con un comienzo humano que lentamente cae en la locura de la exageración hasta el punto en el que la humanidad del inicio capa a capa se reduce a nada, a un ser cruel y carente de disciplina o valores que lentamente pierde en una tortura psicológica o física.</p>
 
                     <h2 id="caracter-y-personalidad">Carácter y Comportamiento</h2>
-                    <p>Con respecto a su carácter NC destaca por ser una Erik bastante tímida y callada en eventos sociales. Es extraño que ella hable en entornos de grupo y es bastante probable que su único aporte sea uno criticista a la hora del debate. Sus soluciones frente a los problemas suelen recaer en cómo estos afectan a la paz común del grupo independientemente de su unificación o los planes originales, lo que la hace bastante capaz de adaptarse al cambio siempre y cuando este no la aleje de su entorno de paz.</p>
+                    <p>Con respecto a su carácter NC destaca por ser una Erik bastante tímida y callada en eventos sociales. Es extraño que ella hable en eventos de grupo y es bastante probable que su único aporte sea uno criticista a la hora del debate. Sus soluciones frente a los problemas suelen recaer en cómo estos afectan a la paz común del grupo independientemente de su unificación o los planes originales, lo que la hace bastante capaz de adaptarse al cambio siempre y cuando este no la aleje de su entorno de paz.</p>
+
+                    <p>A pesar de sus intereses marcados en un entorno pacífico independiente de personas partícipes en él, ella sufre la soledad tanto como cualquiera y valora encarecidamente el interés de otros en su mundo. Todos aquellos que sean vistos por ella como interesados tanto en sus obras como en su escenario idílico de paz tienen un espacio importante en su corazón. Ella ve a estas personas como merecedoras de su confianza y, al mismo tiempo, la presencia de ellos le sirve como reafirmación: A pesar de sus exageraciones y sus formas grotescas de presenciar la adversidad siempre existe un refugio al que regresar en cuanto se hace necesario el descanso. Este “refugio” es uno muy importante para ella puesto que la protege de ser víctima de sus propios pensamientos fatalistas.</p>
+
+                    <h2 id="evolucion-r0-r1">Evolución: De R0 a R1</h2>
+                    <p>Eventualmente, en R0, ella aprende cómo el trabajo puede ser gestionado sin necesidad de expresarlo con figuras retorcidas y macabras, pues tales imágenes lentamente desaparecen de su mente conforme más evidente se hace la luz al final del camino. Lentamente su progreso se ve decorado con rosas blancas y rebosantes de pureza conforme se desarraiga de las espinas de los rosales negros de los cementerios de los que su mente se hacía presa. Ella, ahora, en R0, no necesita a nadie que le recuerde que ella es un ser humano en todos sus aspectos, libre de las cadenas del trauma, limpia de los errores del pasado ahora que es capaz de encontrar la forma de perdonar todo el sufrimiento por el que ya pasó.</p>
+
+                    <p>Actualmente, en R1, ella vive una escala de grises entre aquel jardín idílico y las cicatrices aún visibles de su pasado. Su cuerpo sigue lleno de heridas que aún desconoce cómo curar y con la sangre negra que derrama sigue escribiendo cartas de amor destinadas al día en el que finalmente se quede sin motivos para los que seguir escribiendo, pues, de alguna forma, escribir siempre fue su forma de desahogar el dolor que entonces la ahogaba en lo que entonces eran lienzos vacíos. Solo ella podría. Solo ella sería capaz de darle tal uso a su propio dolor.</p>
+                </div>
+            </div>
+        `
+    },
+    {
+        id: 'entrada-2-amaya',
+        category: 'Personajes',
+        title: 'Entrada 2: AMAYA (0)',
+        subtitle: 'Representación del “fin”, expresión musical libre y memorias de adolescencia.',
+        tags: ['Personaje', 'Música', 'Danza', 'Amaya'],
+        date: 'Archivo Canon',
+        readTime: '4 min',
+        content: `
+            <div class="character-layout">
+                <aside class="character-infobox">
+                    <div class="infobox-header">Entrada 2: AMAYA (0)</div>
+                    <div class="infobox-image-wrap">
+                        <img src="img/0004.png" alt="Entrada 2: AMAYA (0)" class="infobox-image">
+                    </div>
+                    <div class="infobox-body">
+                        <div class="infobox-row">
+                            <span class="infobox-label">Significado</span>
+                            <span class="infobox-value">Llamada así como representación del “fin” originalmente.</span>
+                        </div>
+                        <div class="infobox-row">
+                            <span class="infobox-label">Fuentes artísticas</span>
+                            <span class="infobox-value">La música, principalmente improvisada en instrumentos de cuerda, y la danza. Abierta a todo tipo de expresión artística.</span>
+                        </div>
+                        <div class="infobox-row">
+                            <span class="infobox-label">Intereses</span>
+                            <span class="infobox-value">Prevalencia de la libertad de expresión y felicidad en general. No existe nada más bello para ella que la alegría genuina, en su estado más puro.</span>
+                        </div>
+                        <div class="infobox-row">
+                            <span class="infobox-label">Disgustos</span>
+                            <span class="infobox-value">Cualquier forma de represión contra la libertad creativa o crítica destructiva hacia el arte. Repugna la burla hacia la originalidad o la necesidad moderna de ser “normal”.</span>
+                        </div>
+                        <div class="infobox-row">
+                            <span class="infobox-label">Personas favoritas</span>
+                            <span class="infobox-value">José, ???</span>
+                        </div>
+                        <div class="infobox-row">
+                            <span class="infobox-label">Menos favoritas</span>
+                            <span class="infobox-value">???</span>
+                        </div>
+                    </div>
+                </aside>
+
+                <div class="character-prose">
+                    <h2 id="trayectoria-musical">Trayectoria Musical y Creación</h2>
+                    <p>Amaya, entre todos los miembros del grupo, es la más reconocida por su labor como música. Dicho interés proviene directamente de hacía más de 5 años, durante 2021. Mi madre me había comprado un teclado con el que tocaba música con tal de relajarme y, eventualmente, sin saber nada de teoría musical, empezaba a componer mis propias melodías. En ese entonces no poseía partituras ni sabía cómo realizarlas, así que aquellas canciones se quedaron en mi memoria. Eventualmente, allá en verano de 2023, empecé a usar “Jummbox” y otras páginas web diferentes para componer, esta vez sí, música publicable en internet. No obstante, dichos proyectos entonces solo los mantenía en grupos privados.</p>
+
+                    <p>José vino un día hacia mí y me dió la idea de crear una cuenta de música, cuando compusimos una canción juntos: “Dreamlike Duality”. En ese entonces el personaje que utilicé para representar mi cuenta musical fue “L’amborgambor” pero aquella sensación de haber creado arte sin miedo alguno a la crítica y enviarlo en compañía fue aquello que se hizo mi primera inspiración a la hora de crear a Amaya.</p>
+
+                    <h2 id="origen-e-inspiracion">Origen e Inspiración</h2>
+                    <p>Este personaje está inspirado en mi época de entre 1º y 2º de Bachillerato, época en la que mis principales intereses estaban puestos en el arte en todos sus aspectos y los estudios estaban a la orden del día. No obstante, a pesar de tales dificultades, aquello por lo que más recuerdo esos años fue los tiempos que pasé con mis amigos. Entre esos tiempos hubieron algunos horribles, otros preciosos y otros “inolvidables” en ambos sentidos, y, a raíz de mi psicología de ese entonces, inventé a Amaya.</p>
                 </div>
             </div>
         `
