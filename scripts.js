@@ -3,6 +3,85 @@
 // ==========================================================================
 let wikiData = [
     {
+        id: 'diario-21-11-2026',
+        category: 'Diario y Relatos',
+        title: '21/11/2026: Nunca he viajado tan lejos. R0',
+        subtitle: 'Registro de viaje en el asiento E7; recuerdos de infancia y la expectativa de lo que aguarda más allá de las nubes.',
+        tags: ['Diario', 'R0', 'Relato'],
+        date: '21/11/2026',
+        readTime: '3 min',
+        content: `
+            <figure class="story-media-card">
+                <img src="img/0001.png" alt="21/11/2026: Nunca he viajado tan lejos. R0" class="wiki-image">
+                <figcaption>Registro visual adjunto — <code>img/0001.png</code></figcaption>
+            </figure>
+
+            <h2 id="despegue">Registro de Vuelo (Asiento E7)</h2>
+            <p>Las puertas del avión se abren y me dejan paso sin mucho esfuerzo. Mi sitio es el E7, me dirijo al asiento y espero al resto de la cola. Eventualmente todos pasan, y, en cuanto me fijo, soy el único integrante de mi propia fila. En cierto modo tengo a ambos lados acceso a ventana, y, algo pícaro de mi parte, decido colarme en el asiento de al lado puesto que este me permite reposar mi mano y al mismo tiempo contemplar las futuras vistas del cielo.</p>
+
+            <p>El cielo más allá de las nubes me recuerda a un viaje al que fuí cuando era chiquito, aún cuando solía ir a sitios interesantes con mi padre. Esa fue mi primera y, hasta ahora, última vez montando un avión, y jamás podría olvidarlo. Primero fuimos en tren hacia el aeropuerto y con bastante apuro nos subimos. No recuerdo bien el método pero nunca podría olvidar lo anticlimático que fue ese evento. Todo era demasiado tranquilo en comparación con mis espectativas: La ventana estaba cerrada y si la abría solo se veía un cielo completamente cubierto de negro. No había un mar de nubes ni unas vistas dignas de mención sino un simple, vasto vacío propio de una noche cualquiera en una ventana que solía permanecer cerrada. Evidentemente yo nunca me rendía y, quizás con suerte, podía ver siquiera algo. No obstante, así no fue.</p>
+
+            <p>El avión se eleva por segunda vez, esta vez fuera de mi memoria. No poseo el vocabulario necesario para expresar cómo sienta al cuerpo dicha sensación pero la inclinación del horizonte más allá de la ventana me entusiasma. Todavía veo aquello que antes podía ver con las limitaciones de entonces y mis esperanzas aumentaban en gran proporción. Quizás este sea el momento indicado y seguramente encuentre consuelo con aquello que veo más allá de la ventana. Espero poder encontrar pronto imágenes propias de mención en este diario.</p>
+        `
+    },
+    {
+        id: 'entrada-1-nc',
+        category: 'Personajes',
+        title: 'Entrada 1: NC',
+        subtitle: 'Archivo de personaje, perfil artístico, intereses y análisis psicológico dentro del grupo.',
+        tags: ['Personaje', 'Escritora', 'No R2'],
+        date: 'Archivo Canon',
+        readTime: '4 min',
+        content: `
+            <div class="character-layout">
+                <aside class="character-infobox">
+                    <div class="infobox-header">Entrada 1: NC</div>
+                    <div class="infobox-image-wrap">
+                        <img src="img/0002.png" alt="Entrada 1: NC" class="infobox-image">
+                    </div>
+                    <div class="infobox-body">
+                        <div class="infobox-row">
+                            <span class="infobox-label">Identidad</span>
+                            <span class="infobox-value">Seudónimo artístico. Sin nombre establecible por el canon actualmente.</span>
+                        </div>
+                        <div class="infobox-row">
+                            <span class="infobox-label">Fuentes artísticas</span>
+                            <span class="infobox-value">Literatura, creación de personajes y escenarios principalmente <em>bloodbath / gore / slasher</em>.</span>
+                        </div>
+                        <div class="infobox-row">
+                            <span class="infobox-label">Intereses</span>
+                            <span class="infobox-value">Contacto físico, regalos detallados, tiempo de calidad con la otra persona, cualquier representación de ella como “especial” o “importante”.</span>
+                        </div>
+                        <div class="infobox-row">
+                            <span class="infobox-label">Disgustos</span>
+                            <span class="infobox-value">Arte excesivamente popular o “comercial”, arte dependiente de IA o equipos innecesariamente grandes de trabajo, lascividad carente de romanticismo previo. <span class="status-badge" style="margin-top:4px;">No R2</span></span>
+                        </div>
+                        <div class="infobox-row">
+                            <span class="infobox-label">Personas favoritas</span>
+                            <span class="infobox-value">Gregorio, ???</span>
+                        </div>
+                        <div class="infobox-row">
+                            <span class="infobox-label">Menos favoritas</span>
+                            <span class="infobox-value">???</span>
+                        </div>
+                    </div>
+                </aside>
+
+                <div class="character-prose">
+                    <h2 id="obra-y-tematica">Obra y Temática Literaria</h2>
+                    <p>NC es reconocible como la mayor escritura dentro del grupo. Sus principales intereses siempre han recaído en la deshumanización y rehumanización del arte dentro de sus obras, lo que suele ser interpretado a raíz de sus personajes.</p>
+
+                    <p>Usualmente estos viven en un mundo que los deshumaniza, los manipula para volverse herramientas de diferentes usos sin consideración en repercusiones morales. A partir de ese contexto inicial los personajes son vistos como criaturas comparables a animales en su conducta pero con una crueldad abismal, esta reflejo de la sociedad en la que viven y la opinión pesimista de su autora con respecto a la idea de sociedad. Esta deshumanización se muestra a modo de exageración, un recurso habitual de desahogo por parte de la autora. El mensaje en algunas de estas obras es, precisamente, la des-exageración del entorno y la consecuente rehumanización utópica del entorno: Escenas en las que literales monstruos son capaces de expresar emociones humanas a pesar de sus imperfecciones, estas ocasionadas por la previa sobre-exageración del inicio de la obra.</p>
+
+                    <p>También existen obras con el mensaje dado de vuelta, con un comienzo humano que lentamente cae en la locura de la exageración hasta el punto en el que la humanidad del inicio capa a capa se reduce a nada, a un ser cruel y carente de disciplina o valores que lentamente pierde en una tortura psicológica o física.</p>
+
+                    <h2 id="caracter-y-personalidad">Carácter y Comportamiento</h2>
+                    <p>Con respecto a su carácter NC destaca por ser una Erik bastante tímida y callada en eventos sociales. Es extraño que ella hable en entornos de grupo y es bastante probable que su único aporte sea uno criticista a la hora del debate. Sus soluciones frente a los problemas suelen recaer en cómo estos afectan a la paz común del grupo independientemente de su unificación o los planes originales, lo que la hace bastante capaz de adaptarse al cambio siempre y cuando este no la aleje de su entorno de paz.</p>
+                </div>
+            </div>
+        `
+    },
+    {
         id: 'bienvenida',
         category: 'Primeros Pasos',
         title: 'Bienvenido a tu Nueva Wiki',
@@ -114,7 +193,7 @@ let wikiData = [
     }
 ];
 
-let currentArticleId = 'bienvenida';
+let currentArticleId = 'diario-21-11-2026';
 let isEditing = false;
 
 // ==========================================================================
